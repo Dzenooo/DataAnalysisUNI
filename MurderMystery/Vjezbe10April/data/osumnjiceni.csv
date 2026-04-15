@@ -1,0 +1,21 @@
+osumnjiceni_id,ime_prezime,godine,zanimanje,veza_sa_zrtvom,visina_cm,boja_kose,telefon
+OS-001,Emir Begović,42,poduzetnik,poslovni partner,188,crna,061222333
+OS-002,Lejla Hasanović,28,istraživačica,asistentica,165,smeđa,062444555
+OS-003,Tarik Mujić,38,programer,bivši partner,175,crna,063666777
+OS-004,Selma Kovačević,45,profesorica,rivalna istraživačica,170,plava,061888999
+OS-005,Dino Delić,35,zaštitar,zaštitar u zgradi,192,plava,062111222
+OS-006,Amra Zukić,40,ljekarica,najbolja prijateljica,168,smeđa,063333444
+OS-007,Haris Pašić,55,dekan,šef odjela,180,sijeda,061555666
+OS-008,Nermina Osmić,50,penzionerka,komšinica,160,sijeda,062777888
+OS-009,Adnan Mešić,33,IT administrator,kolega iz Tech Huba,176,smeđa,061333111
+OS-010,Mirela Hadžić,47,profesorica,članica komisije za projekte,167,crna,062555333
+OS-011,Jasmin Kovač,29,student,diplomant kod žrtve,181,smeđa,063111444
+OS-012,Azra Muratović,52,direktorica,direktorica Tech Huba,172,plava,061777222
+OS-013,Samir Begić,60,penzioner,bivši mentor žrtve,178,sijeda,062333666
+OS-014,Edina Halilović,38,novinarka,pisala članke o istraživanju žrtve,174,crna,063444888
+OS-015,Fikret Demirović,44,poduzetnik,konkurentski istraživač,183,smeđa,061666555
+OS-016,Aida Osmanović,31,asistentica,koleginica iz laboratorija,163,plava,062888111
+OS-017,Muhamed Šabanović,48,advokat,pravni savjetnik žrtve,185,crna,063222999
+OS-018,Lejla Džanić,36,farmaceutkinja,komšinica u stambenoj zgradi,169,smeđa,061444777
+OS-019,Damir Ibrahimović,41,inženjer,bivši kolega s fakulteta,179,crna,062666444
+OS-020,Sanela Terzić,55,računovođa,vodi finansije Tech Huba,166,sijeda,063555222

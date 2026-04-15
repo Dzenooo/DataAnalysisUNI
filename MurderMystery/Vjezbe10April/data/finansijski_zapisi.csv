@@ -1,0 +1,252 @@
+zapis_id,ime_prezime,datum,iznos_KM,tip,opis,kategorija
+FZ-0001,Azra Muratović,2026-03-22,-47.00,rashod,Račun za internet,režije
+FZ-0002,Selma Kovačević,2026-03-01,2800.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0003,Nermina Osmić,2026-01-01,800.00,prihod,Plata - Penzija,plata
+FZ-0004,Amra Zukić,2026-01-20,-97.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0005,Tarik Mujić,2026-01-01,3500.00,prihod,Plata - IT firma DevLab,plata
+FZ-0006,Sanela Terzić,2026-03-13,-86.00,rashod,Račun za vodu,režije
+FZ-0007,Samir Begić,2026-03-23,-304.00,rashod,Rata za auto,kredit
+FZ-0008,Damir Ibrahimović,2026-01-03,-185.00,rashod,Kupovina namirnica,hrana
+FZ-0009,Haris Pašić,2026-01-18,-201.00,rashod,Kupovina odjeće,garderoba
+FZ-0010,Haris Pašić,2026-03-01,3200.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0011,Selma Kovačević,2026-03-22,-144.00,rashod,Pretplata na članarinu,sport
+FZ-0012,Amra Zukić,2026-01-01,2500.00,prihod,Plata - Kantonalna bolnica,plata
+FZ-0013,Azra Muratović,2026-02-01,4500.00,prihod,Plata - Tech Hub - direktorica,plata
+FZ-0014,Samir Begić,2026-02-22,-406.00,rashod,Stomatolog,zdravlje
+FZ-0015,Sanela Terzić,2026-01-04,-22.00,rashod,Račun za internet,režije
+FZ-0016,Aida Osmanović,2026-03-16,-72.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0017,Edina Halilović,2026-03-21,-325.00,rashod,Rata za auto,kredit
+FZ-0018,Adnan Mešić,2026-02-01,2200.00,prihod,Plata - Tech Hub IT,plata
+FZ-0019,Emir Begović,2026-02-05,-3000.00,rashod,Rata kredita - Mikrokreditna organizacija,kredit
+FZ-0020,Emir Begović,2026-01-01,-5000.00,rashod,Rata kredita - Banka X,kredit
+FZ-0021,Jasmin Kovač,2026-01-01,600.00,prihod,Plata - Stipendija,plata
+FZ-0022,Edina Halilović,2026-01-26,-51.00,rashod,Račun za internet,režije
+FZ-0023,Dino Delić,2026-03-23,-231.00,rashod,Popravka automobila,transport
+FZ-0024,Lejla Džanić,2026-02-26,-98.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0025,Adnan Mešić,2026-02-12,-93.00,rashod,Pretplata na članarinu,sport
+FZ-0026,Fikret Demirović,2026-02-16,-278.00,rashod,Račun za vodu,režije
+FZ-0027,Sanela Terzić,2026-02-26,-105.00,rashod,Gorivo za automobil,transport
+FZ-0028,Fikret Demirović,2026-03-15,5000.00,prihod,Uplata od klijenta - konsalting,poslovanje
+FZ-0029,Lejla Džanić,2026-02-01,2100.00,prihod,Plata - Apoteka Emi-Farm,plata
+FZ-0030,Damir Ibrahimović,2026-02-12,-87.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0031,Amra Zukić,2026-01-12,-91.00,rashod,Gorivo za automobil,transport
+FZ-0032,Emir Begović,2026-01-10,-1200.00,rashod,Polica životnog osiguranja za poslovnog partnera - mjesečna premija,osiguranje
+FZ-0033,Jasmin Kovač,2026-02-25,-151.00,rashod,Kupovina odjeće,garderoba
+FZ-0034,Emir Begović,2026-03-10,-2500.00,rashod,Zakup poslovnog prostora,zakup
+FZ-0035,Sanela Terzić,2026-03-25,-428.00,rashod,Stomatolog,zdravlje
+FZ-0036,Mirela Hadžić,2026-01-21,-25.00,rashod,Račun za internet,režije
+FZ-0037,Aida Osmanović,2026-03-15,-84.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0038,Samir Begić,2026-03-06,-102.00,rashod,Pretplata na članarinu,sport
+FZ-0039,Adnan Mešić,2026-03-28,-32.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0040,Tarik Mujić,2026-01-06,-31.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0041,Lejla Džanić,2026-03-01,2100.00,prihod,Plata - Apoteka Emi-Farm,plata
+FZ-0042,Lejla Hasanović,2026-03-02,-27.00,rashod,Račun za internet,režije
+FZ-0043,Dino Delić,2026-02-08,-117.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0044,Lejla Hasanović,2026-02-19,-416.00,rashod,Stomatolog,zdravlje
+FZ-0045,Edina Halilović,2026-02-14,-254.00,rashod,Popravka automobila,transport
+FZ-0046,Sanela Terzić,2026-02-12,-85.00,rashod,Račun za vodu,režije
+FZ-0047,Aida Osmanović,2026-01-08,-46.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0048,Nermina Osmić,2026-02-15,-237.00,rashod,Popravka automobila,transport
+FZ-0049,Emina Softić,2026-01-10,-1200.00,rashod,Partnersko životno osiguranje sa Emir Begović - korisnik u slučaju smrti: Emir Begović,osiguranje
+FZ-0050,Emir Begović,2026-02-20,1500.00,prihod,Uplata od klijenta,poslovanje
+FZ-0051,Muhamed Šabanović,2026-03-08,-306.00,rashod,Rata za auto,kredit
+FZ-0052,Adnan Mešić,2026-03-13,-145.00,rashod,Pretplata na članarinu,sport
+FZ-0053,Mirela Hadžić,2026-03-05,-313.00,rashod,Rata za auto,kredit
+FZ-0054,Aida Osmanović,2026-02-21,-258.00,rashod,Popravka automobila,transport
+FZ-0055,Jasmin Kovač,2026-02-04,-72.00,rashod,Račun za vodu,režije
+FZ-0056,Dino Delić,2026-03-23,-123.00,rashod,Gorivo za automobil,transport
+FZ-0057,Dino Delić,2026-02-01,1200.00,prihod,Plata - Tech Hub Security,plata
+FZ-0058,Amra Zukić,2026-02-18,-62.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0059,Dino Delić,2026-01-01,-214.00,rashod,Kupovina namirnica,hrana
+FZ-0060,Selma Kovačević,2026-03-05,-50.00,rashod,Račun za internet,režije
+FZ-0061,Sanela Terzić,2026-02-01,2400.00,prihod,Plata - Tech Hub - računovodstvo,plata
+FZ-0062,Selma Kovačević,2026-01-11,-70.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0063,Mirela Hadžić,2026-02-24,-396.00,rashod,Stomatolog,zdravlje
+FZ-0064,Jasmin Kovač,2026-03-01,600.00,prihod,Plata - Stipendija,plata
+FZ-0065,Nermina Osmić,2026-02-24,-129.00,rashod,Gorivo za automobil,transport
+FZ-0066,Damir Ibrahimović,2026-02-16,-168.00,rashod,Kupovina odjeće,garderoba
+FZ-0067,Muhamed Šabanović,2026-03-27,-195.00,rashod,Kupovina odjeće,garderoba
+FZ-0068,Azra Muratović,2026-02-05,-148.00,rashod,Račun za struju,režije
+FZ-0069,Azra Muratović,2026-03-11,-174.00,rashod,Kupovina odjeće,garderoba
+FZ-0070,Haris Pašić,2026-02-04,-47.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0071,Emir Begović,2026-01-15,2000.00,prihod,Uplata od klijenta,poslovanje
+FZ-0072,Muhamed Šabanović,2026-02-19,-164.00,rashod,Kupovina odjeće,garderoba
+FZ-0073,Edina Halilović,2026-03-01,2000.00,prihod,Plata - Portal TuzlaInfo,plata
+FZ-0074,Mirela Hadžić,2026-03-01,2800.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0075,Damir Ibrahimović,2026-03-17,-128.00,rashod,Račun za struju,režije
+FZ-0076,Muhamed Šabanović,2026-03-05,-118.00,rashod,Gorivo za automobil,transport
+FZ-0077,Lejla Džanić,2026-01-01,2100.00,prihod,Plata - Apoteka Emi-Farm,plata
+FZ-0078,Amra Zukić,2026-02-25,-56.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0079,Jasmin Kovač,2026-03-28,-117.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0080,Tarik Mujić,2026-03-01,3500.00,prihod,Plata - IT firma DevLab,plata
+FZ-0081,Aida Osmanović,2026-03-01,1800.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0082,Azra Muratović,2026-01-02,-95.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0083,Samir Begić,2026-02-01,1100.00,prihod,Plata - Penzija,plata
+FZ-0084,Tarik Mujić,2026-03-11,-100.00,rashod,Račun za vodu,režije
+FZ-0085,Mirela Hadžić,2026-02-01,2800.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0086,Azra Muratović,2026-01-08,-56.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0087,Amra Zukić,2026-03-17,-82.00,rashod,Račun za vodu,režije
+FZ-0088,Damir Ibrahimović,2026-02-01,-90.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0089,Sanela Terzić,2026-01-14,-379.00,rashod,Stomatolog,zdravlje
+FZ-0090,Adnan Mešić,2026-01-02,-72.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0091,Adnan Mešić,2026-03-01,2200.00,prihod,Plata - Tech Hub IT,plata
+FZ-0092,Sanela Terzić,2026-03-21,-56.00,rashod,Račun za vodu,režije
+FZ-0093,Mirela Hadžić,2026-03-13,-228.00,rashod,Popravka automobila,transport
+FZ-0094,Nermina Osmić,2026-03-01,800.00,prihod,Plata - Penzija,plata
+FZ-0095,Dino Delić,2026-01-11,-111.00,rashod,Gorivo za automobil,transport
+FZ-0096,Damir Ibrahimović,2026-01-27,-40.00,rashod,Račun za internet,režije
+FZ-0097,Selma Kovačević,2026-02-13,-378.00,rashod,Stomatolog,zdravlje
+FZ-0098,Haris Pašić,2026-01-12,-116.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0099,Selma Kovačević,2026-01-21,-74.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0100,Selma Kovačević,2026-03-11,-275.00,rashod,Popravka automobila,transport
+FZ-0101,Emir Begović,2026-03-01,-5000.00,rashod,Rata kredita - Banka X,kredit
+FZ-0102,Mirela Hadžić,2026-02-10,-151.00,rashod,Račun za struju,režije
+FZ-0103,Emina Softić,2026-02-10,-1200.00,rashod,Partnersko životno osiguranje - mjesečna premija,osiguranje
+FZ-0104,Lejla Džanić,2026-01-11,-414.00,rashod,Stomatolog,zdravlje
+FZ-0105,Lejla Džanić,2026-02-05,-34.00,rashod,Račun za internet,režije
+FZ-0106,Lejla Džanić,2026-01-21,-220.00,rashod,Popravka automobila,transport
+FZ-0107,Aida Osmanović,2026-02-01,1800.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0108,Damir Ibrahimović,2026-03-01,2900.00,prihod,Plata - Inženjerski biro,plata
+FZ-0109,Jasmin Kovač,2026-01-25,-113.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0110,Sanela Terzić,2026-02-27,-108.00,rashod,Gorivo za automobil,transport
+FZ-0111,Samir Begić,2026-03-16,-265.00,rashod,Popravka automobila,transport
+FZ-0112,Tarik Mujić,2026-01-28,-61.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0113,Tarik Mujić,2026-01-02,-130.00,rashod,Gorivo za automobil,transport
+FZ-0114,Selma Kovačević,2026-02-01,2800.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0115,Emir Begović,2026-02-01,-5000.00,rashod,Rata kredita - Banka X,kredit
+FZ-0116,Adnan Mešić,2026-01-03,-86.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0117,Damir Ibrahimović,2026-02-21,-168.00,rashod,Kupovina odjeće,garderoba
+FZ-0118,Jasmin Kovač,2026-02-01,600.00,prihod,Plata - Stipendija,plata
+FZ-0119,Sanela Terzić,2026-01-07,-191.00,rashod,Kupovina namirnica,hrana
+FZ-0120,Lejla Džanić,2026-02-15,-80.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0121,Dino Delić,2026-01-08,-122.00,rashod,Pretplata na članarinu,sport
+FZ-0122,Azra Muratović,2026-01-01,4500.00,prihod,Plata - Tech Hub - direktorica,plata
+FZ-0123,Fikret Demirović,2026-01-15,3000.00,prihod,Uplata od klijenta - konsalting,poslovanje
+FZ-0124,Fikret Demirović,2026-02-26,-182.00,rashod,Kupovina namirnica,hrana
+FZ-0125,Fikret Demirović,2026-03-22,-85.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0126,Tarik Mujić,2026-02-20,-204.00,rashod,Kupovina odjeće,garderoba
+FZ-0127,Tarik Mujić,2026-03-28,-48.00,rashod,Račun za internet,režije
+FZ-0128,Aida Osmanović,2026-01-04,-73.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0129,Lejla Džanić,2026-03-02,-397.00,rashod,Stomatolog,zdravlje
+FZ-0130,Samir Begić,2026-01-18,-120.00,rashod,Račun za struju,režije
+FZ-0131,Fikret Demirović,2026-01-24,-227.00,rashod,Popravka automobila,transport
+FZ-0132,Selma Kovačević,2026-01-06,-120.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0133,Dino Delić,2026-03-01,1200.00,prihod,Plata - Tech Hub Security,plata
+FZ-0134,Fikret Demirović,2026-02-28,-176.00,rashod,Račun za struju,režije
+FZ-0135,Edina Halilović,2026-03-09,-217.00,rashod,Kupovina namirnica,hrana
+FZ-0136,Adnan Mešić,2026-02-24,-389.00,rashod,Stomatolog,zdravlje
+FZ-0137,Amra Zukić,2026-02-27,-417.00,rashod,Stomatolog,zdravlje
+FZ-0138,Emir Begović,2026-03-10,500.00,prihod,Uplata od klijenta - jedina u martu,poslovanje
+FZ-0139,Lejla Džanić,2026-03-25,-180.00,rashod,Račun za struju,režije
+FZ-0140,Muhamed Šabanović,2026-01-24,-221.00,rashod,Kupovina namirnica,hrana
+FZ-0141,Edina Halilović,2026-02-01,2000.00,prihod,Plata - Portal TuzlaInfo,plata
+FZ-0142,Nermina Osmić,2026-01-05,-58.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0143,Lejla Džanić,2026-03-27,-68.00,rashod,Račun za vodu,režije
+FZ-0144,Emir Begović,2026-02-10,-1200.00,rashod,Polica životnog osiguranja za poslovnog partnera - mjesečna premija,osiguranje
+FZ-0145,Muhamed Šabanović,2026-03-01,3800.00,prihod,Plata - Advokatska kancelarija,plata
+FZ-0146,Adnan Mešić,2026-02-25,-72.00,rashod,Račun za internet,režije
+FZ-0147,Jasmin Kovač,2026-03-20,-47.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0148,Samir Begić,2026-02-06,-80.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0149,Azra Muratović,2026-03-08,-311.00,rashod,Rata za auto,kredit
+FZ-0150,Mirela Hadžić,2026-01-13,-247.00,rashod,Popravka automobila,transport
+FZ-0151,Aida Osmanović,2026-02-18,-210.00,rashod,Kupovina namirnica,hrana
+FZ-0152,Aida Osmanović,2026-02-07,-95.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0153,Lejla Hasanović,2026-01-02,-372.00,rashod,Stomatolog,zdravlje
+FZ-0154,Tarik Mujić,2026-02-01,3500.00,prihod,Plata - IT firma DevLab,plata
+FZ-0155,Lejla Hasanović,2026-03-01,1500.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0156,Muhamed Šabanović,2026-01-01,3800.00,prihod,Plata - Advokatska kancelarija,plata
+FZ-0157,Edina Halilović,2026-03-28,-67.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0158,Mirela Hadžić,2026-01-04,-319.00,rashod,Rata za auto,kredit
+FZ-0159,Haris Pašić,2026-01-01,3200.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0160,Emir Begović,2026-03-05,-3000.00,rashod,Rata kredita - Mikrokreditna organizacija,kredit
+FZ-0161,Lejla Hasanović,2026-02-01,1500.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0162,Lejla Hasanović,2026-03-14,-24.00,rashod,Račun za internet,režije
+FZ-0163,Nermina Osmić,2026-02-01,800.00,prihod,Plata - Penzija,plata
+FZ-0164,Haris Pašić,2026-01-17,-268.00,rashod,Popravka automobila,transport
+FZ-0165,Damir Ibrahimović,2026-01-01,-67.00,rashod,Račun za internet,režije
+FZ-0166,Sanela Terzić,2026-03-01,2400.00,prihod,Plata - Tech Hub - računovodstvo,plata
+FZ-0167,Damir Ibrahimović,2026-03-18,-112.00,rashod,Gorivo za automobil,transport
+FZ-0168,Lejla Džanić,2026-02-16,-269.00,rashod,Popravka automobila,transport
+FZ-0169,Tarik Mujić,2026-03-09,-78.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0170,Amra Zukić,2026-01-08,-222.00,rashod,Kupovina namirnica,hrana
+FZ-0171,Fikret Demirović,2026-01-16,-472.00,rashod,Popravka automobila,transport
+FZ-0172,Emina Softić,2026-03-10,-1200.00,rashod,Partnersko životno osiguranje - mjesečna premija,osiguranje
+FZ-0173,Dino Delić,2026-03-13,-37.00,rashod,Račun za internet,režije
+FZ-0174,Amra Zukić,2026-03-01,2500.00,prihod,Plata - Kantonalna bolnica,plata
+FZ-0175,Edina Halilović,2026-01-28,-85.00,rashod,Gorivo za automobil,transport
+FZ-0176,Lejla Hasanović,2026-01-11,-112.00,rashod,Gorivo za automobil,transport
+FZ-0177,Nermina Osmić,2026-03-07,-83.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0178,Fikret Demirović,2026-02-20,-392.00,rashod,Stomatolog,zdravlje
+FZ-0179,Samir Begić,2026-02-14,-395.00,rashod,Stomatolog,zdravlje
+FZ-0180,Fikret Demirović,2026-03-10,-272.00,rashod,Rata za auto,kredit
+FZ-0181,Selma Kovačević,2026-02-20,-26.00,rashod,Račun za internet,režije
+FZ-0182,Adnan Mešić,2026-03-22,-375.00,rashod,Stomatolog,zdravlje
+FZ-0183,Nermina Osmić,2026-03-27,-130.00,rashod,Gorivo za automobil,transport
+FZ-0184,Azra Muratović,2026-03-25,-167.00,rashod,Kupovina odjeće,garderoba
+FZ-0185,Nermina Osmić,2026-01-15,-114.00,rashod,Pretplata na članarinu,sport
+FZ-0186,Dino Delić,2026-02-19,-120.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0187,Jasmin Kovač,2026-01-26,-138.00,rashod,Račun za struju,režije
+FZ-0188,Mirela Hadžić,2026-01-24,-66.00,rashod,Račun za internet,režije
+FZ-0189,Fikret Demirović,2026-02-26,-331.00,rashod,Stomatolog,zdravlje
+FZ-0190,Edina Halilović,2026-02-17,-272.00,rashod,Popravka automobila,transport
+FZ-0191,Emir Begović,2026-03-10,-1200.00,rashod,Polica životnog osiguranja za poslovnog partnera - mjesečna premija,osiguranje
+FZ-0192,Haris Pašić,2026-02-01,3200.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0193,Damir Ibrahimović,2026-03-17,-134.00,rashod,Račun za struju,režije
+FZ-0194,Samir Begić,2026-03-01,1100.00,prihod,Plata - Penzija,plata
+FZ-0195,Edina Halilović,2026-01-01,2000.00,prihod,Plata - Portal TuzlaInfo,plata
+FZ-0196,Samir Begić,2026-03-05,-131.00,rashod,Pretplata na članarinu,sport
+FZ-0197,Haris Pašić,2026-03-19,-89.00,rashod,Mobilni telefon pretplata,telekomunikacije
+FZ-0198,Damir Ibrahimović,2026-03-14,-280.00,rashod,Popravka automobila,transport
+FZ-0199,Dino Delić,2026-02-21,-107.00,rashod,Gorivo za automobil,transport
+FZ-0200,Mirela Hadžić,2026-01-01,2800.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0201,Lejla Hasanović,2026-02-24,-234.00,rashod,Popravka automobila,transport
+FZ-0202,Emir Begović,2026-01-05,-3000.00,rashod,Rata kredita - Mikrokreditna organizacija,kredit
+FZ-0203,Haris Pašić,2026-03-17,-82.00,rashod,Račun za vodu,režije
+FZ-0204,Muhamed Šabanović,2026-01-02,-114.00,rashod,Pretplata na članarinu,sport
+FZ-0205,Jasmin Kovač,2026-02-08,-167.00,rashod,Račun za struju,režije
+FZ-0206,Lejla Hasanović,2026-01-07,-382.00,rashod,Stomatolog,zdravlje
+FZ-0207,Aida Osmanović,2026-03-12,-98.00,rashod,Gorivo za automobil,transport
+FZ-0208,Aida Osmanović,2026-01-01,1800.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0209,Lejla Džanić,2026-01-24,-49.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0210,Tarik Mujić,2026-02-10,-301.00,rashod,Rata za auto,kredit
+FZ-0211,Muhamed Šabanović,2026-01-12,-210.00,rashod,Kupovina namirnica,hrana
+FZ-0212,Muhamed Šabanović,2026-02-18,-71.00,rashod,Gorivo za automobil,transport
+FZ-0213,Nermina Osmić,2026-03-02,-83.00,rashod,Račun za vodu,režije
+FZ-0214,Haris Pašić,2026-02-28,-297.00,rashod,Rata za auto,kredit
+FZ-0215,Azra Muratović,2026-02-08,-78.00,rashod,Gorivo za automobil,transport
+FZ-0216,Fikret Demirović,2026-03-16,-217.00,rashod,Kupovina namirnica,hrana
+FZ-0217,Adnan Mešić,2026-01-01,2200.00,prihod,Plata - Tech Hub IT,plata
+FZ-0218,Damir Ibrahimović,2026-01-01,2900.00,prihod,Plata - Inženjerski biro,plata
+FZ-0219,Fikret Demirović,2026-03-02,-383.00,rashod,Popravka automobila,transport
+FZ-0220,Dino Delić,2026-02-04,-401.00,rashod,Stomatolog,zdravlje
+FZ-0221,Sanela Terzić,2026-03-10,-187.00,rashod,Kupovina namirnica,hrana
+FZ-0222,Selma Kovačević,2026-01-01,2800.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0223,Amra Zukić,2026-03-25,-392.00,rashod,Stomatolog,zdravlje
+FZ-0224,Fikret Demirović,2026-01-01,-141.00,rashod,Stomatolog,zdravlje
+FZ-0225,Adnan Mešić,2026-01-03,-121.00,rashod,Račun za struju,režije
+FZ-0226,Fikret Demirović,2026-03-28,-146.00,rashod,Kupovina namirnica,hrana
+FZ-0227,Aida Osmanović,2026-02-13,-101.00,rashod,Gorivo za automobil,transport
+FZ-0228,Lejla Džanić,2026-03-27,-126.00,rashod,Račun za struju,režije
+FZ-0229,Muhamed Šabanović,2026-02-01,3800.00,prihod,Plata - Advokatska kancelarija,plata
+FZ-0230,Tarik Mujić,2026-02-18,-397.00,rashod,Stomatolog,zdravlje
+FZ-0231,Samir Begić,2026-02-02,-68.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0232,Dino Delić,2026-01-01,1200.00,prihod,Plata - Tech Hub Security,plata
+FZ-0233,Emir Begović,2026-02-15,-15000.00,rashod,Investicija u opremu za firmu,poslovanje
+FZ-0234,Haris Pašić,2026-01-04,-207.00,rashod,Kupovina odjeće,garderoba
+FZ-0235,Damir Ibrahimović,2026-02-01,2900.00,prihod,Plata - Inženjerski biro,plata
+FZ-0236,Selma Kovačević,2026-01-19,-87.00,rashod,Gorivo za automobil,transport
+FZ-0237,Emir Begović,2026-03-15,0.00,rashod,Neuspjela transakcija - nedovoljno sredstava na računu,poslovanje
+FZ-0238,Fikret Demirović,2026-01-02,-213.00,rashod,Kupovina namirnica,hrana
+FZ-0239,Samir Begić,2026-01-01,1100.00,prihod,Plata - Penzija,plata
+FZ-0240,Azra Muratović,2026-03-01,4500.00,prihod,Plata - Tech Hub - direktorica,plata
+FZ-0241,Sanela Terzić,2026-01-17,-101.00,rashod,Račun za vodu,režije
+FZ-0242,Amra Zukić,2026-02-01,2500.00,prihod,Plata - Kantonalna bolnica,plata
+FZ-0243,Fikret Demirović,2026-02-15,8000.00,prihod,Uplata od klijenta - konsalting,poslovanje
+FZ-0244,Fikret Demirović,2026-03-07,-121.00,rashod,Račun za struju,režije
+FZ-0245,Lejla Hasanović,2026-01-01,1500.00,prihod,Plata - Univerzitet Tuzla,plata
+FZ-0246,Sanela Terzić,2026-02-19,-75.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0247,Emir Begović,2026-03-12,-1500.00,rashod,Opomena za dug - Porezna uprava TK,porez
+FZ-0248,Amra Zukić,2026-01-05,-61.00,rashod,Kupovina knjiga,obrazovanje
+FZ-0249,Mirela Hadžić,2026-03-08,-201.00,rashod,Kupovina namirnica,hrana
+FZ-0250,Samir Begić,2026-01-10,-133.00,rashod,Pretplata na članarinu,sport
+FZ-0251,Sanela Terzić,2026-01-01,2400.00,prihod,Plata - Tech Hub - računovodstvo,plata

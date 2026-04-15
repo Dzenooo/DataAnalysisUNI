@@ -1,0 +1,36 @@
+izjava_id,svjedok,datum,vrijeme,lokacija,opis,spominje_osumnjicenog
+IZ-001,Fatima Resulović,2026-03-15,19:00,Tech Hub - ulaz,Vidjela sam mladu ženu kako izlazi iz zgrade sa knjigama u rukama oko 19:00.,Lejla Hasanović
+IZ-002,Fatima Resulović,2026-03-15,19:45,Tech Hub - 3. sprat,Čistila sam hodnik trećeg sprata. Čula sam glasnu svađu iz kancelarije 301. Muški i ženski glas.,
+IZ-003,Fatima Resulović,2026-03-15,20:15,Tech Hub - 3. sprat,Visok muškarac je brzo izašao iz pravca kancelarije 301. Tamna kosa. Izgledao je vrlo uznemiren.,
+IZ-004,Dino Delić,2026-03-15,18:50,Tech Hub - recepcija,Emir Begović je ušao u lift oko 18:50 i pritisnuo dugme za treći sprat.,Emir Begović
+IZ-005,Dino Delić,2026-03-15,20:20,Tech Hub - recepcija,Emir Begović je sišao liftom i prošao pored recepcije oko 20:20. Bio je uznemiren i pričao na telefon.,Emir Begović
+IZ-006,Dino Delić,2026-03-15,21:00,Tech Hub - recepcija,Emir Begović je konačno izašao iz zgrade oko 21:00. Rekao je laku noć ali me nije pogledao u oči.,Emir Begović
+IZ-007,Konobar Alen,2026-03-15,19:20,Cafe Central,Haris Pašić je došao u kafić oko 19:20 i naručio kafu. Sjedio je sam i čitao novine do oko 21:00.,Haris Pašić
+IZ-008,Nedim Karić,2026-03-15,17:55,Taxi - centar grada,Odvezao sam Tarika Mujića od centra do fitness centra oko 18:00. Pričao je da ide na trening.,Tarik Mujić
+IZ-009,Igor Stanić,2026-03-15,18:00,Fitness centar Tuzla,Tarik Mujić je bio na grupnom treningu od 18:00 do 20:30. Ime mu je na listi prisutnih.,Tarik Mujić
+IZ-010,Sestra Amela,2026-03-15,19:00,Kantonalna bolnica,Dr. Amra Zukić je završila smjenu u 19:00 i otišla kući. Potpisala je izlaznu evidenciju.,Amra Zukić
+IZ-011,Portir Mehmed,2026-03-15,17:00,Univerzitet Tuzla,Prof. Selma Kovačević je napustila zgradu Univerziteta u 17:00. Nije se vraćala do kraja moje smjene u 22:00.,Selma Kovačević
+IZ-012,Nermina Osmić,2026-03-15,20:00,Stambena zgrada - Sjenjak,Bila sam kod kuće cijelo veče nakon povratka iz kupovine oko 17:45. Gledala sam TV.,Nermina Osmić
+IZ-013,Alma Smajlović,2026-03-15,08:35,Trg Slobode,Vidjela sam mladića kako trči sa torbom u ruci na pijaci. Žena je vikala za njim.,
+IZ-014,Senad Mehić,2026-03-15,12:20,Park Slana Banja,Vidio sam dvojicu tinejdžera kako šutiraju klupu u parku. Pozvao sam policiju.,
+IZ-015,Emina Kapetanović,2026-03-15,10:30,Tech Hub - 2. sprat,Selma Kovačević je došla u zgradu ujutro. Vidjela sam je kako razgovara s Eminom Softić na hodniku. Izgledalo je napeto.,Selma Kovačević
+IZ-016,Armin Huseinović,2026-03-15,14:00,Ulica Maršala Tita,"Bio sam svjedok sudara na raskrsnici. Dva automobila, niko nije povrijeđen.",
+IZ-017,Adnan Mešić,2026-03-15,17:00,Tech Hub - server soba,Završio sam radni dan oko 17:15. Sve je bilo normalno. Nisam primijetio ništa neobično.,Adnan Mešić
+IZ-018,Azra Muratović,2026-03-15,18:25,Tech Hub - parking,Napustila sam zgradu oko 18:30. Na parkingu sam vidjela Emira Begovića kako parkira auto. Pozdravili smo se.,Emir Begović
+IZ-019,Lamija Bećirović,2026-03-15,19:30,Stambena zgrada - Sjenjak,Vidjela sam Lejlu Džanić kako ulazi u zgradu oko 19:30 sa kesama iz apoteke.,Lejla Džanić
+IZ-020,Sanela Terzić,2026-03-15,14:55,Tech Hub - kancelarija 205,Bila sam u svojoj kancelariji do 15:00. Emina Softić je navratila oko 14:30 da pita za finansijski izvještaj. Izgledala je normalno.,
+IZ-021,Jasmin Kovač,2026-03-15,15:30,Tech Hub - laboratorij,Bio sam u laboratoriju do 15:45. Pričao sam s Eminom oko diplomskog rada. Dogovorili smo sastanak za sljedeću sedmicu.,
+IZ-022,Naida Selimović,2026-03-14,16:00,Tech Hub - hodnik 3. sprat,Jučer sam čula Emira Begovića i Eminu Softić kako se svađaju u njenoj kancelariji. Nešto oko finansija firme.,Emir Begović
+IZ-023,Eldin Mujanović,2026-03-15,17:30,Tech Hub - ulaz,Vidio sam Edinu Halilović kako ulazi u zgradu oko 13:00 s fotoaparatom. Izašla je oko 14:30.,Edina Halilović
+IZ-024,Dino Delić,2026-03-15,17:35,Tech Hub - recepcija,Lejla Hasanović je ponovo došla u zgradu oko 17:30. Rekla je da je zaboravila nešto u laboratoriju.,Lejla Hasanović
+IZ-025,Aida Osmanović,2026-03-15,15:45,Tech Hub - laboratorij,Otišla sam iz laboratorija u 16:00. Emina je ostala da radi. Rekla je da će biti do kasno jer ima rok za projekat.,
+IZ-026,Merima Avdagić,2026-03-15,11:00,Cafe Central,Vidjela sam Emira Begovića kako sjedi u kafiću sa nekim muškarcem u odijelu. Razgovarali su ozbiljno.,Emir Begović
+IZ-027,Amer Delić,2026-03-15,22:15,Sjenjak,Čuo sam buku iz komšijine garaže oko 22:00. Izašao sam i vidio da je brava razbijena.,
+IZ-028,Faris Imamović,2026-03-15,09:00,Tech Hub - parking,Fikret Demirović je parkirao na mjesto rezervisano za Eminu Softić. Ona mu je rekla da se pomjeri.,Fikret Demirović
+IZ-029,Dino Delić,2026-03-15,13:05,Tech Hub - recepcija,"Edina Halilović, novinarka, je došla u 13:00. Rekla je da ima dogovor s Dr. Softić za intervju.",Edina Halilović
+IZ-030,Muhamed Šabanović,2026-03-15,11:00,Općina Tuzla,Bio sam u Općini cijeli dan radi predmeta. Nisam bio u blizini Tech Huba.,Muhamed Šabanović
+IZ-031,Mediha Čaušević,2026-03-15,20:30,Tech Hub - parking,Prolazila sam pored Tech Huba oko 20:30. Vidjela sam jedan auto na parkingu sa upaljenim svjetlima. Tamni džip.,
+IZ-032,Damir Ibrahimović,2026-03-15,13:50,Tech Hub - kancelarija 301,Bio sam na kratkom sastanku s Eminom oko 14:00. Pričali smo o mogućoj saradnji. Sve je bilo normalno.,Damir Ibrahimović
+IZ-033,Irma Kovačić,2026-03-15,19:50,Ulica kod Tech Huba,Šetala sam psa oko 19:50. Čula sam nekoga kako viče iz pravca zgrade Tech Hub. Nisam mogla razabrati riječi.,
+IZ-034,Samir Begić,2026-03-15,16:00,Telefon,Razgovarao sam telefonski s Eminom oko 16:00. Pitala me za savjet oko projekta. Zvučala je dobro.,
+IZ-035,Hasan Salković,2026-03-15,18:40,Tech Hub - parking,"Vidio sam muškarca kako parkira tamni džip na parkingu Tech Huba oko 18:40. Visok čovjek, tamna kosa.",

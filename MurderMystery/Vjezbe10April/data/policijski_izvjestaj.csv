@@ -1,0 +1,26 @@
+izvjestaj_id,datum,vrijeme,lokacija,tip,opis,status
+PI-001,2026-03-10,09:20,Ulica Maršala Tita,kradja,Ukraden novčanik iz džepa na autobuskoj stanici.,zatvoren
+PI-002,2026-03-10,14:30,Park Slana Banja,vandalizam,Oštećene tri klupe u parku.,zatvoren
+PI-003,2026-03-11,08:00,Sjenjak,provala,Provaljen stan u prizemlju. Ukradena elektronika.,otvoren
+PI-004,2026-03-11,16:45,Centar,saobracajka,Sudar na raskrsnici. Materijalna šteta.,zatvoren
+PI-005,2026-03-11,22:00,Stadion Tušanj,tuca,Fizički obračun navijača nakon utakmice.,otvoren
+PI-006,2026-03-12,10:15,Trg Slobode,kradja,Ukraden mobilni telefon sa štanda na pijaci.,zatvoren
+PI-007,2026-03-12,19:30,Slatina,vandalizam,Grafiti na fasadi stambene zgrade.,zatvoren
+PI-008,2026-03-13,07:45,Industrijska zona,provala,Provaljena kancelarija firme. Ukradena dva laptopa.,otvoren
+PI-009,2026-03-13,13:00,Univerzitet Tuzla,prijetnja,Student prijavio prijetnju od kolege. Razgovor obavljen.,zatvoren
+PI-010,2026-03-13,21:15,Centar,tuca,Tuča ispred restorana. Jedan povrijeđeni.,otvoren
+PI-011,2026-03-14,08:30,Merkur Tuzla,kradja,Pokušaj krađe u trgovini. Osoba uhapšena.,zatvoren
+PI-012,2026-03-14,11:00,Sjenjak,vandalizam,Oštećena dva automobila na parkingu.,otvoren
+PI-013,2026-03-14,16:00,Slatina,vandalizam,Grafiti na zidu osnovne škole.,zatvoren
+PI-014,2026-03-15,08:30,Trg Slobode,kradja,Ukraden mobilni telefon iz torbice na pijaci.,zatvoren
+PI-015,2026-03-15,10:45,Ulica Turalibegova,saobracajka,Sudar automobila i bicikliste. Biciklista lakše povrijeđen.,zatvoren
+PI-016,2026-03-15,12:15,Park Slana Banja,vandalizam,Oštećena klupa i kanta za smeće u parku.,otvoren
+PI-017,2026-03-15,14:00,Ulica Maršala Tita,saobracajka,Sudar dva vozila na raskrsnici. Bez povrijeđenih.,zatvoren
+PI-018,2026-03-15,17:30,Centar,kradja,Ukraden ruksak iz kafića dok je vlasnik bio u toaletu.,otvoren
+PI-019,2026-03-15,20:45,Tech Hub - Kancelarija 301,ubistvo,Pronađeno tijelo Dr. Emine Softić u njenoj kancelariji. Procijenjeno vrijeme smrti: 19:30-20:30. Uzrok: trovanje. Na stolu pronađena šolja kafe s tragovima nepoznate supstance.,otvoren
+PI-020,2026-03-15,22:10,Sjenjak,kradja,Provaljena garaža - ukraden bicikl i alat.,otvoren
+PI-021,2026-03-15,23:45,Centar,tuca,Fizički obračun ispred noćnog kluba. Bez prijave.,zatvoren
+PI-022,2026-03-16,01:30,Centar,tuca,Fizički obračun ispred noćnog kluba. Dva učesnika prevezena u bolnicu.,otvoren
+PI-023,2026-03-16,09:00,Tech Hub,istraga,Nastavak istrage ubistva Dr. Softić. Pregledane sigurnosne kamere. Kamere na 3. spratu neispravne od 12. marta.,otvoren
+PI-024,2026-03-16,14:00,Općina Tuzla,prevara,Prijava lažnog dokumenta u postupku javne nabavke.,otvoren
+PI-025,2026-03-16,18:30,Slatina,provala,Provaljen podrum stambene zgrade.,otvoren

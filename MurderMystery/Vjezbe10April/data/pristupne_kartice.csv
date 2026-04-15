@@ -1,0 +1,182 @@
+kartica_id,ime_prezime,zgrada,datum,vrijeme_ulaza,vrijeme_izlaza
+PK-0001,Emina Softić,Fitness centar Tuzla,2026-03-12,10:05,14:25
+PK-0002,Haris Pašić,Tech Hub,2026-03-15,08:00,16:00
+PK-0003,Amer Delić,Tech Hub,2026-03-16,09:35,18:15
+PK-0004,Eldin Mujanović,Tech Hub,2026-03-15,07:20,13:15
+PK-0005,Almir Bašić,Hotel Tuzla,2026-03-13,08:30,11:55
+PK-0006,Lejla Hasanović,Univerzitet Tuzla,2026-03-16,08:20,16:25
+PK-0007,Amir Hodžić,Tech Hub,2026-03-11,08:35,17:00
+PK-0008,Aida Osmanović,Tech Hub,2026-03-12,09:15,17:55
+PK-0009,Nermin Jusić,Tech Hub,2026-03-13,07:45,16:55
+PK-0010,Adnan Mešić,Tech Hub,2026-03-14,07:05,16:35
+PK-0011,Maja Ibrišimović,Tech Hub,2026-03-16,07:50,16:55
+PK-0012,Dino Delić,Tech Hub,2026-03-14,08:55,18:20
+PK-0013,Dino Delić,Hotel Tuzla,2026-03-10,08:00,13:05
+PK-0014,Jasmin Kovač,Tech Hub,2026-03-15,09:30,15:45
+PK-0015,Senad Mehić,Tech Hub,2026-03-15,09:00,17:40
+PK-0016,Amer Delić,Kantonalna bolnica,2026-03-14,07:10,09:05
+PK-0017,Maja Ibrišimović,Tech Hub,2026-03-15,09:10,14:50
+PK-0018,Emir Begović,Tech Hub,2026-03-15,18:45,21:10
+PK-0019,Samir Begić,Cafe Central,2026-03-15,10:00,12:00
+PK-0020,Dino Delić,Tech Hub,2026-03-11,08:15,17:10
+PK-0021,Senad Mehić,Općina Tuzla,2026-03-13,12:05,17:00
+PK-0022,Sanela Terzić,Pošta Tuzla,2026-03-16,14:10,18:25
+PK-0023,Senad Mehić,BIT centar Tuzla,2026-03-10,14:55,15:00
+PK-0024,Maja Ibrišimović,Tech Hub,2026-03-12,07:15,18:50
+PK-0025,Lejla Hasanović,Univerzitet Tuzla,2026-03-14,09:55,16:20
+PK-0026,Amer Delić,Tech Hub,2026-03-14,08:10,17:55
+PK-0027,Eldin Mujanović,BIT centar Tuzla,2026-03-11,09:15,11:30
+PK-0028,Edina Halilović,Tech Hub,2026-03-15,13:00,14:30
+PK-0029,Azra Muratović,Tech Hub,2026-03-16,07:35,18:10
+PK-0030,Emina Softić,Tech Hub,2026-03-13,08:10,15:30
+PK-0031,Emir Begović,Cafe Central,2026-03-14,12:15,14:50
+PK-0032,Sanela Terzić,Tech Hub,2026-03-13,08:45,15:50
+PK-0033,Nermina Osmić,Cafe Central,2026-03-10,10:05,13:45
+PK-0034,Emir Begović,Cafe Central,2026-03-12,12:10,13:05
+PK-0035,Dženan Avdić,Hotel Tuzla,2026-03-14,14:20,19:20
+PK-0036,Adnan Mešić,Tech Hub,2026-03-12,08:55,17:45
+PK-0037,Emina Softić,Kantonalna bolnica,2026-03-11,13:00,17:15
+PK-0038,Sanela Mušić,Poliklinika Tuzla,2026-03-10,08:15,10:40
+PK-0039,Muhamed Šabanović,Poliklinika Tuzla,2026-03-16,13:50,14:50
+PK-0040,Sanela Mušić,Tech Hub,2026-03-16,09:35,18:15
+PK-0041,Alma Smajlović,Tech Hub,2026-03-10,08:20,16:15
+PK-0042,Ervin Hadžimuratović,Tech Hub,2026-03-15,08:05,13:05
+PK-0043,Alma Smajlović,Tech Hub,2026-03-15,10:50,14:45
+PK-0044,Azra Muratović,Tech Hub,2026-03-11,07:50,16:05
+PK-0045,Senad Mehić,Tech Hub,2026-03-14,07:55,16:05
+PK-0046,Armin Huseinović,Tech Hub,2026-03-12,07:15,16:00
+PK-0047,Lamija Bećirović,Tech Hub,2026-03-13,07:45,16:10
+PK-0048,Emir Begović,Tech Hub,2026-03-16,11:20,15:35
+PK-0049,Emina Kapetanović,BIT centar Tuzla,2026-03-10,10:05,11:25
+PK-0050,Dino Delić,Tech Hub,2026-03-13,08:25,17:20
+PK-0051,Faruk Mehmedović,Tech Hub,2026-03-15,11:00,18:15
+PK-0052,Edina Halilović,Općina Tuzla,2026-03-11,11:40,15:00
+PK-0053,Sanela Terzić,Tech Hub,2026-03-14,07:30,16:50
+PK-0054,Lejla Hasanović,Univerzitet Tuzla,2026-03-11,09:20,15:20
+PK-0055,Adnan Mešić,Tech Hub,2026-03-10,07:55,17:40
+PK-0056,Dženan Avdić,Tech Hub,2026-03-14,07:15,18:55
+PK-0057,Azra Muratović,Univerzitet Tuzla,2026-03-14,11:35,12:30
+PK-0058,Haris Pašić,Univerzitet Tuzla,2026-03-16,07:40,16:45
+PK-0059,Nermin Jusić,Tech Hub,2026-03-16,07:20,18:05
+PK-0060,Emir Begović,Tech Hub,2026-03-13,11:55,16:15
+PK-0061,Dino Delić,Fitness centar Tuzla,2026-03-14,07:30,11:20
+PK-0062,Haris Pašić,Univerzitet Tuzla,2026-03-14,08:35,15:45
+PK-0063,Lejla Hasanović,Tech Hub,2026-03-15,09:00,12:30
+PK-0064,Aida Osmanović,Kantonalna bolnica,2026-03-13,11:35,13:45
+PK-0065,Sanela Terzić,Tech Hub,2026-03-11,09:45,15:30
+PK-0066,Nermin Jusić,Univerzitet Tuzla,2026-03-16,09:30,11:35
+PK-0067,Emina Softić,Tech Hub,2026-03-15,16:00,
+PK-0068,Emina Softić,Tech Hub,2026-03-16,09:05,16:30
+PK-0069,Damir Ibrahimović,Tech Hub,2026-03-15,10:00,14:00
+PK-0070,Adnan Mešić,Tech Hub,2026-03-13,08:35,15:25
+PK-0071,Merima Avdagić,Hotel Tuzla,2026-03-10,10:40,12:15
+PK-0072,Mediha Čaušević,Tech Hub,2026-03-15,08:55,17:45
+PK-0073,Senad Mehić,Tech Hub,2026-03-13,07:20,18:55
+PK-0074,Nermin Jusić,Tech Hub,2026-03-14,08:00,15:55
+PK-0075,Emina Kapetanović,BIT centar Tuzla,2026-03-16,13:50,15:00
+PK-0076,Ajdin Softić,Tech Hub,2026-03-15,10:40,18:50
+PK-0077,Dženan Avdić,Tech Hub,2026-03-16,09:45,16:20
+PK-0078,Haris Pašić,Tech Hub,2026-03-15,18:00,19:15
+PK-0079,Naida Selimović,Tech Hub,2026-03-16,09:30,15:05
+PK-0080,Almir Bašić,Tech Hub,2026-03-15,08:05,14:05
+PK-0081,Adnan Mešić,Tech Hub,2026-03-15,07:45,17:15
+PK-0082,Naida Selimović,BIT centar Tuzla,2026-03-16,12:50,16:45
+PK-0083,Nermin Jusić,Poliklinika Tuzla,2026-03-11,11:15,13:50
+PK-0084,Edina Halilović,Merkur Tuzla,2026-03-14,08:10,10:40
+PK-0085,Adnan Mešić,Općina Tuzla,2026-03-11,11:10,15:40
+PK-0086,Haris Pašić,Univerzitet Tuzla,2026-03-13,07:35,16:10
+PK-0087,Emina Softić,Tech Hub,2026-03-12,09:25,17:55
+PK-0088,Nermin Jusić,Fitness centar Tuzla,2026-03-12,14:50,19:35
+PK-0089,Sanela Mušić,Tech Hub,2026-03-10,09:10,17:15
+PK-0090,Faris Imamović,Cafe Central,2026-03-14,11:50,16:30
+PK-0091,Aida Osmanović,Tech Hub,2026-03-15,08:45,16:00
+PK-0092,Senad Mehić,Tech Hub,2026-03-11,08:05,16:20
+PK-0093,Lamija Bećirović,Tech Hub,2026-03-14,09:45,17:15
+PK-0094,Lejla Hasanović,Tech Hub,2026-03-15,17:30,19:00
+PK-0095,Adnan Mešić,Bingo centar Tuzla,2026-03-16,12:05,16:40
+PK-0096,Selma Kovačević,Univerzitet Tuzla,2026-03-15,08:00,17:00
+PK-0097,Mirela Hadžić,BIT centar Tuzla,2026-03-13,09:55,14:45
+PK-0098,Emir Begović,Tech Hub,2026-03-11,10:45,14:55
+PK-0099,Lejla Džanić,BIT centar Tuzla,2026-03-16,12:40,15:20
+PK-0100,Sanela Terzić,Tech Hub,2026-03-16,08:05,18:30
+PK-0101,Lamija Bećirović,Tech Hub,2026-03-12,07:40,18:50
+PK-0102,Sanela Terzić,Tech Hub,2026-03-12,09:40,16:30
+PK-0103,Sanela Mušić,Tech Hub,2026-03-15,09:55,13:25
+PK-0104,Belma Karić,Pošta Tuzla,2026-03-12,10:55,14:30
+PK-0105,Belma Karić,Kantonalna bolnica,2026-03-16,14:10,17:00
+PK-0106,Tarik Mujić,Fitness centar Tuzla,2026-03-15,18:00,20:30
+PK-0107,Selma Kovačević,Fitness centar Tuzla,2026-03-10,13:00,17:35
+PK-0108,Azra Muratović,Tech Hub,2026-03-15,07:30,18:30
+PK-0109,Aida Osmanović,Merkur Tuzla,2026-03-12,14:05,17:20
+PK-0110,Sanela Terzić,Tech Hub,2026-03-10,09:40,16:25
+PK-0111,Emir Begović,Tech Hub,2026-03-12,10:45,14:35
+PK-0112,Hasan Salković,Tech Hub,2026-03-15,09:30,14:10
+PK-0113,Maja Ibrišimović,Poliklinika Tuzla,2026-03-12,08:10,10:30
+PK-0114,Haris Pašić,Univerzitet Tuzla,2026-03-10,07:55,16:00
+PK-0115,Naida Selimović,Hotel Tuzla,2026-03-12,13:00,15:30
+PK-0116,Nermin Jusić,Tech Hub,2026-03-15,07:20,11:15
+PK-0117,Mirela Hadžić,Univerzitet Tuzla,2026-03-15,08:00,16:30
+PK-0118,Emina Softić,Tech Hub,2026-03-14,08:40,17:55
+PK-0119,Lamija Bećirović,Tech Hub,2026-03-15,09:45,18:40
+PK-0120,Maja Ibrišimović,Bingo centar Tuzla,2026-03-16,13:35,16:55
+PK-0121,Irma Kovačić,Pošta Tuzla,2026-03-14,07:45,08:50
+PK-0122,Nermin Jusić,Tech Hub,2026-03-11,09:05,15:40
+PK-0123,Emina Kapetanović,Tech Hub,2026-03-10,08:05,16:50
+PK-0124,Haris Pašić,Univerzitet Tuzla,2026-03-14,11:35,15:25
+PK-0125,Alma Smajlović,Tech Hub,2026-03-11,09:55,17:50
+PK-0126,Ervin Hadžimuratović,Bingo centar Tuzla,2026-03-12,13:40,17:55
+PK-0127,Sanela Terzić,Tech Hub,2026-03-15,08:00,15:00
+PK-0128,Dino Delić,Univerzitet Tuzla,2026-03-10,12:05,17:20
+PK-0129,Dino Delić,Tech Hub,2026-03-10,09:00,17:00
+PK-0130,Hasan Salković,Univerzitet Tuzla,2026-03-12,13:35,14:20
+PK-0131,Haris Pašić,Univerzitet Tuzla,2026-03-11,08:50,17:25
+PK-0132,Dino Delić,Tech Hub,2026-03-16,08:50,18:35
+PK-0133,Muhamed Šabanović,Općina Tuzla,2026-03-15,09:00,15:00
+PK-0134,Amer Delić,Tech Hub,2026-03-15,10:10,18:25
+PK-0135,Naida Selimović,Tech Hub,2026-03-12,09:50,17:15
+PK-0136,Emina Softić,Tech Hub,2026-03-15,08:30,12:00
+PK-0137,Alma Smajlović,Tech Hub,2026-03-13,07:35,15:25
+PK-0138,Lejla Hasanović,Fitness centar Tuzla,2026-03-11,12:30,14:10
+PK-0139,Amra Zukić,Kantonalna bolnica,2026-03-15,07:00,19:00
+PK-0140,Lejla Džanić,Poliklinika Tuzla,2026-03-15,08:00,16:00
+PK-0141,Naida Selimović,Tech Hub,2026-03-15,10:50,16:00
+PK-0142,Aida Osmanović,Pošta Tuzla,2026-03-16,13:15,17:25
+PK-0143,Almir Bašić,Tech Hub,2026-03-10,09:20,18:35
+PK-0144,Alma Smajlović,Fitness centar Tuzla,2026-03-10,13:10,16:15
+PK-0145,Kenan Salihović,Tech Hub,2026-03-12,09:20,18:20
+PK-0146,Aida Osmanović,Fitness centar Tuzla,2026-03-10,13:35,17:30
+PK-0147,Emir Begović,Cafe Central,2026-03-13,13:45,13:35
+PK-0148,Azra Muratović,Tech Hub,2026-03-14,07:55,18:35
+PK-0149,Nermina Osmić,Merkur Tuzla,2026-03-15,17:00,17:45
+PK-0150,Tarik Mujić,Cafe Central,2026-03-14,11:55,14:05
+PK-0151,Emir Begović,Cafe Central,2026-03-15,13:35,14:50
+PK-0152,Kenan Salihović,Tech Hub,2026-03-11,09:05,16:05
+PK-0153,Emina Kapetanović,Hotel Tuzla,2026-03-12,11:15,14:50
+PK-0154,Emir Begović,Tech Hub,2026-03-15,09:00,12:00
+PK-0155,Amir Hodžić,Tech Hub,2026-03-16,08:25,15:40
+PK-0156,Emir Begović,Kantonalna bolnica,2026-03-11,08:55,10:25
+PK-0157,Dino Delić,Univerzitet Tuzla,2026-03-14,09:20,14:35
+PK-0158,Nermin Jusić,Tech Hub,2026-03-12,08:45,17:35
+PK-0159,Nermina Osmić,Bingo centar Tuzla,2026-03-14,10:50,12:10
+PK-0160,Aida Osmanović,Fitness centar Tuzla,2026-03-12,07:05,11:10
+PK-0161,Damir Ibrahimović,BIT centar Tuzla,2026-03-10,14:10,16:15
+PK-0162,Dženan Avdić,Tech Hub,2026-03-15,11:55,15:15
+PK-0163,Naida Selimović,Hotel Tuzla,2026-03-13,14:30,19:25
+PK-0164,Emina Softić,Bingo centar Tuzla,2026-03-12,14:00,19:05
+PK-0165,Eldin Mujanović,Cafe Central,2026-03-10,10:00,11:15
+PK-0166,Faruk Mehmedović,Univerzitet Tuzla,2026-03-11,12:15,14:25
+PK-0167,Faruk Mehmedović,Tech Hub,2026-03-13,08:10,15:20
+PK-0168,Emina Softić,Tech Hub,2026-03-11,09:40,17:15
+PK-0169,Azra Muratović,Tech Hub,2026-03-13,08:55,16:10
+PK-0170,Aida Osmanović,Hotel Tuzla,2026-03-16,09:30,11:05
+PK-0171,Hasan Salković,Bingo centar Tuzla,2026-03-11,09:30,11:20
+PK-0172,Adnan Mešić,Tech Hub,2026-03-16,09:45,15:45
+PK-0173,Amir Hodžić,Tech Hub,2026-03-12,09:30,17:55
+PK-0174,Amer Delić,Tech Hub,2026-03-13,07:50,15:15
+PK-0175,Fikret Demirović,Tech Hub,2026-03-15,11:00,13:00
+PK-0176,Belma Karić,Tech Hub,2026-03-15,08:45,17:30
+PK-0177,Aida Osmanović,Kantonalna bolnica,2026-03-14,13:45,18:40
+PK-0178,Dino Delić,Cafe Central,2026-03-16,11:15,12:05
+PK-0179,Amra Zukić,Općina Tuzla,2026-03-11,13:20,14:25
+PK-0180,Emina Softić,Merkur Tuzla,2026-03-13,08:45,09:40
+PK-0181,Dino Delić,Tech Hub,2026-03-15,06:00,22:00
