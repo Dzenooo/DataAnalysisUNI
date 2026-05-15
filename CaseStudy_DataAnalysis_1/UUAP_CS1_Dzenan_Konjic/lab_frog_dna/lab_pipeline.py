@@ -38,7 +38,12 @@ labels = []
 
 for filename in os.listdir(DATA_DIR):
     if filename.endswith(".fasta"):
-        species_name = filename.replace(".fasta", "")
+        species_map = {
+            "frog_species_1": "Xenopus tropicalis",
+            "frog_species_2": "Xenopus laevis",
+            "frog_species_3": "Rana temporaria"
+        }
+        species_name = species_map.get(filename.replace(".fasta", ""), filename.replace(".fasta", ""))
         file_path = os.path.join(DATA_DIR, filename)
         seqs = load_fasta(file_path)
         sequences.extend(seqs)
